@@ -3,6 +3,9 @@
 @import url("./bases/main.css");
 
 
-/* Components */
-@import url("./components/header.css");
-@import url("./components/footer.css");
+/* layout */
+@import url("./layouts/header.css");
+@import url("./layouts/footer.css");
+
+/* Vendors */
+@import url("./vendors/normalize.css");

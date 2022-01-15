@@ -5,3 +5,7 @@
 .bg-test {
     background-color: lightcyan;
 }
+
+.w100 {
+    width: 100%;
+}

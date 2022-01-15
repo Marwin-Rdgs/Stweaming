@@ -13,7 +13,7 @@
 
     <title>Streaming-Win</title>
 </head>
-<body class="container bg-test">
+<body class="container bg-test w100">
 
     <?php require 'header.php' ?>
 

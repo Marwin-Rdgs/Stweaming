@@ -1,0 +1,25 @@
+footer {
+    overflow: hidden;
+    border-top-left-radius: 18%;
+    border-top-right-radius: 18%;
+}
+
+.footer__name {
+    color: white;
+    text-align: center;
+}
+
+.footer__propos {
+    margin-right: 80px;
+    color: white;
+}
+
+.footer__contact {
+    margin-left: 80px;
+    color: white;
+}
+
+.footer__ML {
+    text-align: center;
+    color: lightcyan;
+}
