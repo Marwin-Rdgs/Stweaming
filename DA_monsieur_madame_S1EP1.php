@@ -27,7 +27,7 @@
 
 
 <h1 class="page__title">Les Monsieur Madame <br> Saison 1 Épisode 1</h1>
-<span class="badge rounded-pill bg-success badge-categ">Dessins Animé</span>
+<a href="dessins_animes.php"><span class="badge rounded-pill bg-success badge-categ">Dessins Animé</span></a>
 <img src="./public/icons/barre_titre.svg" alt="barre de séparation" class="barre_titre">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIFMiFGFstM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

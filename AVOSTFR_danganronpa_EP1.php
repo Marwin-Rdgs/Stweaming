@@ -27,7 +27,7 @@
 
 
 <h1 class="page__title">Danganronpa The Animation <br> Épisode 1</h1>
-<span class="badge rounded-pill bg-danger badge-categ">Animé VOSTFR</span>
+<a href="animes_vostfr.php"><span class="badge rounded-pill bg-danger badge-categ">Animé VOSTFR</span></a>
 <img src="./public/icons/barre_titre.svg" alt="barre de séparation" class="barre_titre">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XXTmfqhMXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
