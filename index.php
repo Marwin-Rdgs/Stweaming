@@ -13,9 +13,57 @@
 
     <title>Streaming-Win</title>
 </head>
-<body class="container">
+<body class="container bg-test">
 
-<?php require 'header.php' ?>
-    
+    <?php require 'header.php' ?>
+
+<main>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</main>
+
+    <?php require 'footer.php' ?>
+
 </body>
 </html>
