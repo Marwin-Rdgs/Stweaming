@@ -3,6 +3,8 @@
 @import url("./bases/main.css");
 @import url("./bases/media.css");
 
+/* Pages */
+@import url("./pages/page_episode.css");
 
 /* layout */
 @import url("./layouts/header.css");

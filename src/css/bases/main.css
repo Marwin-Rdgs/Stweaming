@@ -9,21 +9,3 @@
 .w100 {
     width: 100%;
 }
-
-.page__title {
-    text-align: center;
-}
-
-.barre_titre {
-    align-items: center;
-    display: block;
-
-    position: absolute;
-    top: 195px;
-    z-index: 2;
-}
-
-.alphabet {
-    font-size: 13px;
-    text-align: center;
-}

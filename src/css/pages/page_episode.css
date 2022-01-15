@@ -1,0 +1,30 @@
+.page__title {
+    text-align: center;
+    font-size: 25px;
+}
+
+.barre_titre {
+    align-items: center;
+    display: block;
+
+    position: absolute;
+    top: 185px;
+    z-index: 2;
+}
+
+.alphabet {
+    font-size: 13px;
+    text-align: center;
+}
+
+.btn_episode {
+    font-size: 10px;
+}
+
+.syno {
+    margin-top: 75px;
+}
+
+.badge-categ {
+    margin-top: 5px;
+}
