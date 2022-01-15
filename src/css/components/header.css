@@ -3,3 +3,7 @@
     border-bottom-right-radius: 30%;
     position: fixed;
 }
+
+.header__title {
+    margin-left: 20px;
+}
