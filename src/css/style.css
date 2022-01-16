@@ -8,6 +8,7 @@
 
 /* Pages */
 @import url("./pages/page_episode.css");
+@import url("./pages/contact.css");
 
 /* layout */
 @import url("./layouts/header.css");

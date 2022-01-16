@@ -8,8 +8,7 @@ header {
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
     position: fixed;
-
-    z-index: 9;
+    z-index: 999999999999;
 }
 
 .header__title {
