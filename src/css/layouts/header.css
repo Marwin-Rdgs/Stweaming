@@ -1,5 +1,7 @@
 header {
     padding-bottom: 150px;
+    display: flex;
+    justify-content: center;
 }
 
 .header-radius {
