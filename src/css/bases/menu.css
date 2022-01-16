@@ -1,0 +1,54 @@
+
+#menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    transform: scale(0);
+    transition: 0.5s;
+    z-index: 10;
+  }
+  
+  #menu-overlay.active {
+    transform: scale(1);
+  }
+  
+  #menu-overlay .menu_ul {
+  position: relative;
+  }
+  
+  #menu-overlay .menu_ul .menu_li {
+    position: relative;
+    list-style: none;
+    text-align: center;
+    display: block;
+  }
+  
+  #menu-overlay .menu_ul .menu_li .menu_liens {
+    position: relative;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5%;
+    color: white;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  
+  #menu-overlay .menu_ul .menu_li .menu_liens:hover {
+    color: blue;
+  }
+  
+  #toggleIcon {
+    z-index: 1;
+    cursor: pointer;
+  }
+
+  .menu__close {
+      width: 25%;
+  }

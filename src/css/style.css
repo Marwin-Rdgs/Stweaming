@@ -5,6 +5,7 @@
 /* Bases */
 @import url("./bases/main.css");
 @import url("./bases/media.css");
+@import url("./bases/menu.css");
 
 /* Pages */
 @import url("./pages/page_episode.css");

@@ -2,13 +2,15 @@ header {
     padding-bottom: 150px;
     display: flex;
     justify-content: center;
+
+    z-index: 9;
 }
 
 .header-radius {
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
     position: fixed;
-    z-index: 999999999999;
+    z-index: 9;
     margin-top: -20px;
 }
 
