@@ -37,47 +37,7 @@
 
     <p class="syno">Découvre <strong>le monde fun et coloré des Monsieur Madame en dessin animé</strong> ! La ville de Dillydale est peuplée de personnages bien particuliers : M. Malchance, M. Tatillon, Mme Bavarde, M. Petit, M. Chatouille, Mme Terreur… Et lorsque tout ce monde-là tente de cohabiter, cela donne de drôles d’aventures.</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 </main>
 

@@ -19,15 +19,11 @@
 
 <main>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+<div class="top_page">
 
 <h1 class="page__title">Animes VF</h1>
-<img src="./public/icons/barre_titre.svg" alt="barre de séparation" class="barre_titre">
 
 <p class="alphabet"> 
     <a href="">A</a>
@@ -58,41 +54,26 @@
     <a href="">Z</a>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
+
+
+        <!-- Card 1 -->
+        <div class="card bg-primary">
+
+            <div class="imgBx">
+
+                <img src="public/cards/inazuma_eleven.jpg" alt="Image1">
+
+            </div>
+
+            <div class="content">
+                <h2 class="card__title">Inazuma Eleven VF</h2>
+                <p>Découvrez l'intégralité de l'aventure du club de foot du collège Raimon avec l'ensemble des voix française sur <strong> Stweaming </strong> ! </p>
+                <a href="AVF_inazuma_eleven_SAE1.php"><button type="button" class="btn btn-outline-info">Découvrir</button></a>
+            </div>
+
+        </div>   
+
 
 </main>
 

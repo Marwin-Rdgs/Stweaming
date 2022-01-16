@@ -1,20 +1,18 @@
-.page__title {
+.top_page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
-    font-size: 25px;
 }
 
-.barre_titre {
-    align-items: center;
-    display: block;
-
-    position: absolute;
-    top: 185px;
-    z-index: 2;
+.page__title {
+    font-size: 25px;
+    border-bottom: 3px solid;
+    padding-bottom: 2px;
 }
 
 .alphabet {
     font-size: 13px;
-    text-align: center;
 }
 
 .btn_episode {

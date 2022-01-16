@@ -1,3 +1,7 @@
+header {
+    padding-bottom: 150px;
+}
+
 .header-radius {
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;

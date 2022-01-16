@@ -2,6 +2,7 @@ footer {
     overflow: hidden;
     border-top-left-radius: 18%;
     border-top-right-radius: 18%;
+    margin-top: 200px;
 }
 
 .footer__name {

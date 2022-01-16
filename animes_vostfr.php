@@ -19,16 +19,9 @@
 
 <main>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
+<div class="top_page">
 <h1 class="page__title">Animes VOSTFR</h1>
-<img src="./public/icons/barre_titre.svg" alt="barre de séparation" class="barre_titre">
 
 <p class="alphabet"> 
     <a href="">A</a>
@@ -58,39 +51,8 @@
     <a href="">Y</a>
     <a href="">Z</a>
 </p>
+</div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </main>
 

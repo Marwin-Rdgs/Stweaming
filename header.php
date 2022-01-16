@@ -2,7 +2,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary header-radius">
   <div class="container-fluid">
-    <a class="navbar-brand header__title" href="index.php">Streaming</a>
+    <a class="navbar-brand header__title" href="index.php">Stweaming</a>
 
     <!-- Réaliser le bouton menu comme les cours ici -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">

@@ -18,12 +18,7 @@
     <?php require 'header.php' ?>
 
 <main>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <h1 class="page__title">Danganronpa The Animation <br> Épisode 1</h1>
@@ -40,47 +35,6 @@
         La série raconte la même histoire que le jeu. Un groupe de 15 étudiants se retrouve prisonnier dans Hope's Peak Academy, une école prestigieuse recrutant des étudiants ayant une très grande maîtrise ou connaissances dans un domaine particulier. Un ours en peluche télécommandé appelé Monokuma se présentant comme le directeur, leur annonce qu'ils sont prisonniers à vie dans cette école. Le seul moyen d'en sortir est de commettre un meurtre sans se faire démasquer au cours du procès de classe qui s'ensuit. L'histoire suit Makoto Naegi et 14 autres étudiants « Ultime » possédant chacun un talent unique.
     </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </main>
 

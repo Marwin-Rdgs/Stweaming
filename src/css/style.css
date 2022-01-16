@@ -1,4 +1,7 @@
 
+/* Components */
+@import url("./components/cards.css");
+
 /* Bases */
 @import url("./bases/main.css");
 @import url("./bases/media.css");

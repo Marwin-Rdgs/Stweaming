@@ -18,12 +18,7 @@
     <?php require 'header.php' ?>
 
 <main>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <h1 class="page__title">Inazuma Eleven <br> Saison 1 Épisode 1</h1>
@@ -37,47 +32,6 @@
 
     <p class="syno">Inazuma Eleven est une série manga et anime adaptée d'une série de jeux vidéo, dont sont tirés un film et de trois séries dérivées, Inazuma Eleven GO, Inazuma Eleven: Ares et Inazuma Eleven: Orion. <br> La série suit le club de football Raimon et ses joueurs de bas niveau qui vont tenter de s'améliorer pour affronter des équipes de plus en plus fortes, tout en apprenant des techniques de football.</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </main>
 
