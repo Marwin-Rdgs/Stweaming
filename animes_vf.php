@@ -56,6 +56,7 @@
 
 </div>
 
+<div class="container">
 
         <!-- Card 1 -->
         <div class="card bg-primary">
@@ -73,6 +74,8 @@
             </div>
 
         </div>   
+        
+</div>
 
 
 </main>
