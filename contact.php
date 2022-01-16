@@ -27,7 +27,7 @@
 
       <div class="form">
         <div class="contact-info">
-          <h3 class="title">Me Contacter autrement</h3>
+          <h3 class="contact_title">Me Contacter autrement</h3>
           <p class="text">
             Je suis également disponible sur mon adresse mail ci-jointe, mais également mes différents réseaux sociaux.
           </p>
@@ -44,7 +44,7 @@
           </div>
 
           <div class="social-media">
-            <p>Mes Réseaux : (soon)</p>
+            <p>Mes Réseaux :</p>
             <div class="social-icons">
               <a href="https://www.linkedin.com/in/marwin-rodrigues/" target="_blank">
                 <i class="fab fa-linkedin"></i>
@@ -71,7 +71,7 @@
         <div class="contact-form">
 
           <form action="index.html" autocomplete="off">
-            <h3 class="title">Me Contacter</h3>
+            <h3 class="contact_title">Me Contacter</h3>
             <div class="input-container">
               <input type="text" name="name" class="input" placeholder="Nom"/>
               <span>Nom</span>

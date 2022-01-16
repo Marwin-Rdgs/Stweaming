@@ -9,6 +9,7 @@ header {
     border-bottom-right-radius: 30%;
     position: fixed;
     z-index: 999999999999;
+    margin-top: -20px;
 }
 
 .header__title {

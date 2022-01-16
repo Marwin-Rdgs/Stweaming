@@ -3,6 +3,7 @@ footer {
     border-top-left-radius: 18%;
     border-top-right-radius: 18%;
     margin-top: 275px;
+    margin-bottom: -25px;
 }
 
 .footer__name {

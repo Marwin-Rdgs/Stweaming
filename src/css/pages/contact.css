@@ -38,7 +38,7 @@ form {
   position: relative;
 }
 
-.title {
+.contact_title {
   color: #fff;
   font-weight: 500;
   font-size: 1.5rem;
@@ -162,7 +162,7 @@ textarea.input {
   position: relative;
 }
 
-.contact-info .title {
+.contact-info .contact_title {
   color: #1c1c1c;
 }
 
@@ -267,11 +267,6 @@ textarea.input {
   }
 }
 
-@media (max-width: 480px) {
-  .container {
-    padding: 1.5rem;
-  }
-
   .contact-info:before {
     display: none;
   }
@@ -291,8 +286,8 @@ textarea.input {
     font-size: 0.8rem;
   }
 
-  .title {
-    font-size: 1.15rem;
+  .contact_title {
+    font-size: 15px;
   }
 
   .social-icons a {
@@ -312,7 +307,7 @@ textarea.input {
   .contact_btn {
     padding: 0.45rem 1.2rem;
   }
-}
+
 
 input::placeholder, textarea::placeholder {
     color: lightgray;
