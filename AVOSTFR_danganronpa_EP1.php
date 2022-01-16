@@ -11,7 +11,7 @@
     <!-- Appel à la feuille de style -->
     <link rel="stylesheet" href="./src/css/style.css">
 
-    <title>Streaming-Win ~ Danganronpa The Animation EP 1</title>
+    <title>Stweaming ~ Danganronpa The Animation EP 1</title>
 </head>
 <body class="container bg-test w100">
 

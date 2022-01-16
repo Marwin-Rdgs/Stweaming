@@ -11,7 +11,7 @@
     <!-- Appel à la feuille de style -->
     <link rel="stylesheet" href="./src/css/style.css">
 
-    <title>Streaming-Win ~ Contact</title>
+    <title>Stweaming ~ Contact</title>
 
     <script
       src="https://kit.fontawesome.com/64d58efce2.js"

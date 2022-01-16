@@ -11,7 +11,7 @@
     <!-- Appel à la feuille de style -->
     <link rel="stylesheet" href="./src/css/style.css">
 
-    <title>Streaming-Win ~ Inazuma Eleven S1 EP1</title>
+    <title>Stweaming ~ Inazuma Eleven S1 EP1</title>
 </head>
 <body class="container bg-test w100">
 

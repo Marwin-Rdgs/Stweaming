@@ -11,7 +11,7 @@
     <!-- Appel à la feuille de style -->
     <link rel="stylesheet" href="./src/css/style.css">
 
-    <title>Streaming-Win</title>
+    <title>Stweaming</title>
 </head>
 <body class="container bg-test w100">
 
