@@ -26,32 +26,32 @@
 <h1 class="page__title">Animes VF</h1>
 
 <p class="alphabet"> 
-    <a href="">A</a>
-    <a href="">B</a>
-    <a href="">C</a>
-    <a href="">D</a>
-    <a href="">E</a>
-    <a href="">F</a>
-    <a href="">G</a>
-    <a href="">H</a>
-    <a href="">I</a>
-    <a href="">J</a>
-    <a href="">K</a>
-    <a href="">L</a>
-    <a href="">M</a>
-    <a href="">N</a>
-    <a href="">O</a>
-    <a href="">P</a>
-    <a href="">Q</a>
-    <a href="">R</a>
-    <a href="">S</a>
-    <a href="">T</a>
-    <a href="">U</a>
-    <a href="">V</a>
-    <a href="">W</a>
-    <a href="">X</a>
-    <a href="">Y</a>
-    <a href="">Z</a>
+    <a href="#anim_vf_letter_a">A</a>
+    <a href="#anim_vf_letter_b">B</a>
+    <a href="#anim_vf_letter_c">C</a>
+    <a href="#anim_vf_letter_d">D</a>
+    <a href="#anim_vf_letter_e">E</a>
+    <a href="#anim_vf_letter_f">F</a>
+    <a href="#anim_vf_letter_g">G</a>
+    <a href="#anim_vf_letter_h">H</a>
+    <a href="#anim_vf_letter_i">I</a>
+    <a href="#anim_vf_letter_j">J</a>
+    <a href="#anim_vf_letter_k">K</a>
+    <a href="#anim_vf_letter_l">L</a>
+    <a href="#anim_vf_letter_m">M</a>
+    <a href="#anim_vf_letter_n">N</a>
+    <a href="#anim_vf_letter_o">O</a>
+    <a href="#anim_vf_letter_p">P</a>
+    <a href="#anim_vf_letter_q">Q</a>
+    <a href="#anim_vf_letter_r">R</a>
+    <a href="#anim_vf_letter_s">S</a>
+    <a href="#anim_vf_letter_t">T</a>
+    <a href="#anim_vf_letter_u">U</a>
+    <a href="#anim_vf_letter_v">V</a>
+    <a href="#anim_vf_letter_w">W</a>
+    <a href="#anim_vf_letter_x">X</a>
+    <a href="#anim_vf_letter_y">Y</a>
+    <a href="#anim_vf_letter_z">Z</a>
 </p>
 
 </div>
@@ -74,7 +74,7 @@
             </div>
 
         </div>   
-        
+
 </div>
 
 
