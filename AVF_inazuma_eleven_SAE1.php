@@ -20,11 +20,11 @@
 <main>
 
 
-
+<div class="top_page">
 <h1 class="page__title">Inazuma Eleven <br> Saison 1 Épisode 1</h1>
-<a href="animes_vf.php"><span class="badge rounded-pill bg-warning badge-categ">Animé VF</span></a>
-<img src="./public/icons/barre_titre.svg" alt="barre de séparation" class="barre_titre">
+</div>
 
+<a href="animes_vf.php"><span class="badge rounded-pill bg-warning badge-categ">Animé VF</span></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNwzLzN0RiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     <button type="button" class="btn btn-outline-primary btn_episode" style="float:left">Épisode Précédent</button>
