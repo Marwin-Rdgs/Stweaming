@@ -53,6 +53,28 @@
 </p>
 </div>
 
+<div class="container">
+
+<!-- Card 1 -->
+<div class="card bg-primary">
+
+    <div class="imgBx">
+
+        <img src="public/cards/monsieurs_madames.jpg" alt="Image1">
+
+    </div>
+
+    <div class="content">
+        <h2 class="card__title">Monsieurs, Madames</h2>
+        <p>Découvrez le monde fun et coloré des Monsieurs Madames sur <strong> Stweaming </strong> ! </p>
+        <a href="DA_monsieur_madame_S1EP1.php"><button type="button" class="btn btn-outline-info">Découvrir</button></a>
+    </div>
+
+</div>   
+
+</div>
+
+
 </main>
 
     <?php require 'footer.php' ?>

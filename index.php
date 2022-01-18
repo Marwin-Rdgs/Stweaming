@@ -19,6 +19,7 @@
 
 <main>
 
+<h1>Les nouveautés (1 animes VF / 1 animes VOSTFR / 1 dessins animés)</h1>
 
 </main>
 

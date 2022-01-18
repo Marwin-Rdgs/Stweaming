@@ -53,6 +53,28 @@
 </p>
 </div>
 
+<div class="container">
+
+<!-- Card 1 -->
+<div class="card bg-primary">
+
+    <div class="imgBx">
+
+        <img src="public/cards/danganronpa.jpg" alt="Image1">
+
+    </div>
+
+    <div class="content">
+        <h2 class="card__title">Danganronpa VOSTFR</h2>
+        <p>Découvrez l'intégralité de l'aventure de ces 15 étudiants prisonnier dans Hope's Peak Academy sur <strong> Stweaming </strong> ! </p>
+        <a href="AVOSTFR_danganronpa_EP1.php"><button type="button" class="btn btn-outline-info">Découvrir</button></a>
+    </div>
+
+</div>   
+
+</div>
+
+
 
 </main>
 
