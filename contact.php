@@ -94,7 +94,7 @@
       </div>
     </div>
 
-    <script src="src/js/fonctions.js"></script>
+    <script src="src/js/contact.js"></script>
 
 
 </main>
