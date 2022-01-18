@@ -23,10 +23,11 @@
 
 <main>
 
+
     <!-- Project Card #1 -->
     <div class="project__card">
-        <div class="project__card__inner project__card1"
-        x-on:click="project('project__card1');">
+    <div class="project__card__inner project__carda"
+        x-on:click="project('project__carda');">
 
             <!-- Avant Card -->
             <div class="project__card__face project__card__face--front">
@@ -49,14 +50,13 @@
                     </div>
                 </div>
             </div>
-        </div>
+    </div>
     </div>
 
-
-        <!-- Project Card #2 -->
-        <div class="project__card">
-        <div class="project__card__inner project__card2"
-        x-on:click="project('project__card2');">
+    <!-- Project Card #2 -->
+    <div class="project__card">
+    <div class="project__card__inner project__cardb"
+        x-on:click="project('project__cardb');">
 
             <!-- Avant Card -->
             <div class="project__card__face project__card__face--front">
@@ -73,13 +73,42 @@
 
 
                     <div class="project__card__body">
-                        <h4>Projet Personnel (ex)</h4>
+                        <h4>Projet Scolaire (ex)</h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi suscipit voluptate quam architecto mollitia reiciendis sed tempore debitis, libero accusantium! Nisi eligendi rerum molestiae molestias voluptatem labore alias consectetur nemo?.</p>
                         <a href="#"><button type="button" class="btn btn-outline-info project__card__button">Découvrir</button></a>
                     </div>
                 </div>
             </div>
-        </div>
+    </div>
+    </div>
+
+    <!-- Project Card #3 -->
+    <div class="project__card">
+    <div class="project__card__inner project__cardc"
+        x-on:click="project('project__cardc');">
+
+            <!-- Avant Card -->
+            <div class="project__card__face project__card__face--front">
+                <h2>Projet 3</h2>
+            </div>
+
+            <!-- Arrière Card -->
+            <div class="project__card__face project__card__face--back">
+                <div class="project__card__content">
+                    
+                    <div class="project__card__header">
+                        <h3>Titre Projet</h3>
+                    </div>
+
+
+                    <div class="project__card__body">
+                        <h4>Projet Scolaire (ex)</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi suscipit voluptate quam architecto mollitia reiciendis sed tempore debitis, libero accusantium! Nisi eligendi rerum molestiae molestias voluptatem labore alias consectetur nemo?.</p>
+                        <a href="#"><button type="button" class="btn btn-outline-info project__card__button">Découvrir</button></a>
+                    </div>
+                </div>
+            </div>
+    </div>
     </div>
 
 

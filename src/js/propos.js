@@ -1,6 +1,6 @@
-function project (c) {
+function project (i) {
     
-const  project__card = document.querySelector('.'+c)
+const  project__card = document.querySelector('.'+i)
 
     project__card.classList.toggle('is-flipped')
 
