@@ -23,6 +23,40 @@
 
 <main>
 
+<div class="top_page">
+
+<h1 class="page__title">À Propos</h1>
+
+</div>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, 
+    ut voluptatum molestias inventore corporis, vero numquam assumenda? Fugiat ad temporibus quis ab!Lorem ipsum dolor sit amet consectetur 
+    adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, ut voluptatum molestias inventore corporis, 
+    vero numquam assumenda? Fugiat ad temporibus quis ab! <br> <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, 
+    ut voluptatum molestias inventore corporis, vero numquam assumenda? Fugiat ad temporibus quis ab!Lorem ipsum dolor sit amet consectetur 
+    adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, ut voluptatum molestias inventore corporis, 
+    vero numquam assumenda? Fugiat ad temporibus quis ab! <br> <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, 
+    ut voluptatum molestias inventore corporis, vero numquam assumenda? Fugiat ad temporibus quis ab!Lorem ipsum dolor sit amet consectetur 
+    adipisicing elit. Architecto, ipsam dolorem. Laborum nam provident natus suscipit quis, ut voluptatum molestias inventore corporis, 
+    vero numquam assumenda? Fugiat ad temporibus quis ab! </p>
+
+
+<section class="propos_moi">
+    <div class="propos_main">
+        <img src="./public/img/avatar.png" alt="avatar de Marwin">
+            <div class="propos_text">
+                    <h1>À propos de moi</h1>
+                    <h5>Futur <span class="propos_blue"> Développeur Web</span></h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, odio! Ipsum, quisquam. Enim veritatis vero delectus placeat facere tempora repudiandae doloremque dicta cum maiores magnam, voluptates, labore officiis beatae esse.</p>            
+                    <a href="https://marwin-rdgs.fr/" target="_blank"><button type="button" class="propos_button">Savoir Plus</button></a>
+            </div>
+</section>
+
+
+
+
 
     <!-- Project Card #1 -->
     <div class="project__card">

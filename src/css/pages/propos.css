@@ -1,0 +1,68 @@
+.propos_moi {
+    background-color: #1c1c1c;
+    margin-top: 65px;
+
+    padding: 78px 0px;
+}
+
+.propos_moi img {
+    height: auto;
+    width: 200px;
+}
+
+.propos_text {
+    width: 550px;
+}
+
+.propos_main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;  
+}
+
+.propos_text h1 {
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.propos_text h5 {
+    color: lightcyan;
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.propos_blue {
+    color: #1F9BCF;
+}
+
+.propos_text p {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 12;
+    margin-bottom: 45px;
+}
+
+.propos_button {
+    background: #1F9BCF;
+    color: white;
+    text-decoration: none;
+    border: 2 solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+
+.propos_button:hover {
+    background: transparent;
+    border: 2px solid #1F9BCF;
+    cursor: pointer;
+}

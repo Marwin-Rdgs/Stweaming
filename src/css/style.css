@@ -10,6 +10,7 @@
 /* Pages */
 @import url("./pages/page_episode.css");
 @import url("./pages/contact.css");
+@import url("./pages/propos.css");
 
 /* layout */
 @import url("./layouts/header.css");
