@@ -1,7 +1,7 @@
-function project (i) {
+function project(i) {
     
-const  project__card = document.querySelector('.'+i)
+const  card = document.querySelector('.'+ i)
 
-    project__card.classList.toggle('is-flipped')
+    card.classList.toggle('is-flipped')
 
 }
