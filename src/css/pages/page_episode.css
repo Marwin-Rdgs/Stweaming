@@ -13,6 +13,7 @@
 
 .alphabet {
     font-size: 13px;
+    margin-bottom: 50px;
 }
 
 .btn_episode {
@@ -25,4 +26,12 @@
 
 .badge-categ {
     margin-top: 5px;
+}
+
+.title_alphabet {
+    border-right: 1px solid;        
+}
+
+.section_alphabet {
+    margin-bottom: 100px;
 }

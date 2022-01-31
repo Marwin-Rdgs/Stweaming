@@ -15,7 +15,7 @@
 </head>
 <body class="container bg-test w100">
 
-    <?php require 'header.php' ?>
+    <?php require './src/php/header/header.php' ?>
 
 <main>
 
@@ -35,7 +35,7 @@
 
 </main>
 
-    <?php require 'footer.php' ?>
+    <?php require './src/php/footer/footer.php' ?>
 
 </body>
 </html>

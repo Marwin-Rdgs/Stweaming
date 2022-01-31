@@ -15,7 +15,7 @@
 </head>
 <body class="container bg-test w100">
 
-    <?php require 'header.php' ?>
+    <?php require './src/php/header/header.php' ?>
 
 <main>
 
@@ -55,29 +55,209 @@
 
 <div class="container">
 
-<!-- Card 1 -->
-<div class="card bg-primary">
+<!-- ================================================== A ================================================== -->
+<section id="DA_letter_a" class="section_alphabet">
+    <h2 class="title_alphabet">A</h2>
 
-    <div class="imgBx">
+</section>
 
-        <img src="public/cards/monsieurs_madames.jpg" alt="Image1">
+<!-- ================================================== B ================================================== -->
+<section id="DA_letter_b" class="section_alphabet">
+    <h2 class="title_alphabet">B</h2>
 
-    </div>
+</section>
 
-    <div class="content">
-        <h2 class="card__title">Monsieurs, Madames</h2>
-        <p>Découvrez le monde fun et coloré des Monsieurs Madames sur <strong> Stweaming </strong> ! </p>
-        <a href="DA_monsieur_madame_S1EP1.php"><button type="button" class="btn btn-outline-info">Découvrir</button></a>
-    </div>
 
-</div>   
+<!-- ================================================== C ================================================== -->
+<section id="DA_letter_c" class="section_alphabet">
+    <h2 class="title_alphabet">C</h2>
+
+</section>
+
+
+<!-- ================================================== D ================================================== -->
+<section id="DA_letter_d" class="section_alphabet">
+    <h2 class="title_alphabet">D</h2>
+
+</section>
+
+
+<!-- ================================================== E ================================================== -->
+<section id="DA_letter_e" class="section_alphabet">
+    <h2 class="title_alphabet">E</h2>
+
+</section>
+
+
+<!-- ================================================== F ================================================== -->
+<section id="DA_letter_f" class="section_alphabet">
+    <h2 class="title_alphabet">F</h2>
+
+</section>
+
+
+<!-- ================================================== G ================================================== -->
+<section id="DA_letter_g" class="section_alphabet">
+    <h2 class="title_alphabet">G</h2>
+
+</section>
+
+
+<!-- ================================================== H ================================================== -->
+<section id="DA_letter_h" class="section_alphabet">
+    <h2 class="title_alphabet">H</h2>
+
+</section>
+
+<!-- ================================================== I ================================================== -->
+<section id="DA_letter_i" class="section_alphabet">
+    <h2 class="title_alphabet">I</h2>
+
+</section>
+
+
+<!-- ================================================== J ================================================== -->
+<section id="DA_letter_j" class="section_alphabet">
+    <h2 class="title_alphabet">J</h2>
+
+</section>
+
+
+<!-- ================================================== K ================================================== -->
+<section id="DA_letter_k" class="section_alphabet">
+    <h2 class="title_alphabet">K</h2>
+
+</section>
+
+
+<!-- ================================================== L ================================================== -->
+<section id="DA_letter_l" class="section_alphabet">
+    <h2 class="title_alphabet">L</h2>
+
+</section>
+
+
+<!-- ================================================== M ================================================== -->
+<section id="DA_letter_m" class="section_alphabet">
+    <h2 class="title_alphabet">M</h2>
+
+    <!-- Card Monsieurs, Madames -->
+    <div class="card bg-primary">
+
+        <div class="imgBx">
+
+            <img src="public/cards/monsieurs_madames.jpg" alt="Image1">
+
+        </div>
+
+        <div class="content">
+            <h2 class="card__title">Monsieurs, Madames</h2>
+            <p>Découvrez le monde fun et coloré des Monsieurs Madames sur <strong> Stweaming </strong> ! </p>
+            <a href="DA_monsieur_madame_S1EP1.php"><button type="button" class="btn btn-outline-info">Découvrir</button></a>
+        </div>
+
+    </div>   
+
+</section>
+
+
+
+<!-- ================================================== N ================================================== -->
+<section id="DA_letter_n" class="section_alphabet">
+    <h2 class="title_alphabet">N</h2>
+
+</section>
+
+
+<!-- ================================================== O ================================================== -->
+<section id="DA_letter_o" class="section_alphabet">
+    <h2 class="title_alphabet">O</h2>
+
+</section>
+
+
+<!-- ================================================== P ================================================== -->
+<section id="DA_letter_p" class="section_alphabet">
+    <h2 class="title_alphabet">P</h2>
+
+</section>
+
+
+<!-- ================================================== Q ================================================== -->
+<section id="DA_letter_q" class="section_alphabet">
+    <h2 class="title_alphabet">Q</h2>
+
+</section>
+
+
+<!-- ================================================== R ================================================== -->
+<section id="DA_letter_r" class="section_alphabet">
+    <h2 class="title_alphabet">R</h2>
+
+</section>
+
+
+<!-- ================================================== S ================================================== -->
+<section id="DA_letter_S" class="section_alphabet">
+    <h2 class="title_alphabet">S</h2>
+
+</section>
+
+
+<!-- ================================================== T ================================================== -->
+<section id="DA_letter_t" class="section_alphabet">
+    <h2 class="title_alphabet">T</h2>
+
+</section>
+
+
+<!-- ================================================== U ================================================== -->
+<section id="DA_letter_u" class="section_alphabet">
+    <h2 class="title_alphabet">U</h2>
+
+</section>
+
+
+<!-- ================================================== V ================================================== -->
+<section id="DA_letter_v" class="section_alphabet">
+    <h2 class="title_alphabet">V</h2>
+
+</section>
+
+
+<!-- ================================================== W ================================================== -->
+<section id="DA_letter_w" class="section_alphabet">
+    <h2 class="title_alphabet">W</h2>
+
+</section>
+
+
+<!-- ================================================== X ================================================== -->
+<section id="DA_letter_x" class="section_alphabet">
+    <h2 class="title_alphabet">X</h2>
+
+</section>
+
+
+<!-- ================================================== Y ================================================== -->
+<section id="DA_letter_y" class="section_alphabet">
+    <h2 class="title_alphabet">Y</h2>
+
+</section>
+
+<!-- ================================================== Z ================================================== -->
+<section id="DA_letter_z" class="section_alphabet">
+    <h2 class="title_alphabet">Z</h2>
+
+</section>
+
 
 </div>
 
 
 </main>
 
-    <?php require 'footer.php' ?>
+    <?php require './src/php/footer/footer.php' ?>
 
 </body>
 </html>
