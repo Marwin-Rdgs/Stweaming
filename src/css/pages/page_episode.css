@@ -35,3 +35,11 @@
 .section_alphabet {
     margin-bottom: 100px;
 }
+
+.list_episode {
+    text-align: center;
+}
+
+.episode_here {
+    background-color:rgb(0, 255, 221);
+}
