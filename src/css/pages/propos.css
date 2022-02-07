@@ -66,3 +66,9 @@
     border: 2px solid #1F9BCF;
     cursor: pointer;
 }
+
+.autres_projets {
+    margin-top: 100px;
+    text-align: center;
+    border-bottom: 1px solid;
+}

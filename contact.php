@@ -1,7 +1,40 @@
+<?php
+if(isset($_POST['mailform']))
+{
+	if(!empty($_POST['nom']) AND !empty($_POST['mail']) AND !empty($_POST['message']))
+	{
+		$header="MIME-Version: 1.0\r\n";
+		$header.='From:"stweaming.marwin-rodrigues.fr"<contact@marwin-rodrigues.fr>'."\n";
+		$header.='Content-Type:text/html; charset="uft-8"'."\n";
+		$header.='Content-Transfer-Encoding: 8bit';
+
+		$message='
+		<html>
+			<body>
+				<div align="center">
+					<u>Nom de l\'expéditeur :</u>'.$_POST['nom'].'<br />
+					<u>Mail de l\'expéditeur :</u>'.$_POST['mail'].'<br />
+					<br />
+					'.nl2br($_POST['message']).'
+				</div>
+			</body>
+		</html>
+		';
+
+		mail("marwin-rdgs.25@laposte.net", "CONTACT - Stweaming", $message, $header);
+		$msg="Votre message a bien été envoyé !";
+	}
+	else
+	{
+		$msg="Tous les champs doivent être complétés !";
+	}
+}
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -73,23 +106,25 @@
           <form action="index.html" autocomplete="off">
             <h3 class="contact_title">Me Contacter</h3>
             <div class="input-container">
-              <input type="text" name="name" class="input" placeholder="Nom"/>
+              <input type="text" name="name" class="input" placeholder="Votre nom" value="<?php if(isset($_POST['nom'])) { echo $_POST['nom']; } ?>"/>
               <span>Nom</span>
             </div>
             <div class="input-container">
-              <input type="email" name="email" class="input" placeholder="Email"/>
+              <input type="email" name="mail" class="input" placeholder="Votre email" value="<?php if(isset($_POST['mail'])) { echo $_POST['mail']; } ?>"/>
               <span>Email</span>
             </div>
-            <div class="input-container">
-              <input type="object" name="object" class="input" placeholder="Objet"/>
-              <span>Objet</span>
-            </div>
             <div class="input-container textarea">
-              <textarea name="message" class="input" placeholder="Message"></textarea>
+              <textarea name="message" class="input" placeholder="Votre message"><?php if(isset($_POST['message'])) { echo $_POST['message']; } ?></textarea>
               <span>Message</span>
             </div>
-            <input type="submit" value="Envoyer" class="btn contact__envoyer" />
+            <input type="submit" value="Envoyer !" class="btn contact__envoyer" name="mailform"/>
           </form>
+          <?php
+		if(isset($msg))
+		{
+			echo $msg;
+		}
+		?>
         </div>
       </div>
     </div>
@@ -99,6 +134,7 @@
 
 </main>
 
+<br><br><br>
     <?php require './src/php/footer/footer.php' ?>
 
 </body>

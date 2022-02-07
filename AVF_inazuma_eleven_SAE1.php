@@ -32,6 +32,18 @@
 
     <p class="syno">Inazuma Eleven est une série manga et anime adaptée d'une série de jeux vidéo, dont sont tirés un film et de trois séries dérivées, Inazuma Eleven GO, Inazuma Eleven: Ares et Inazuma Eleven: Orion. <br> La série suit le club de football Raimon et ses joueurs de bas niveau qui vont tenter de s'améliorer pour affronter des équipes de plus en plus fortes, tout en apprenant des techniques de football.</p>
 
+    <table class="table table-hover list_episode">
+  <thead>
+    <tr>
+      <th scope="col">Liste Episode - Saison 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-active">
+    <th scope="row"> <a href="#"> Les épisodes arriveront prochainement </a> </th>
+    </tr>
+  </tbody>
+</table>
 
 </main>
 

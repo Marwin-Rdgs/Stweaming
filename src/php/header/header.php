@@ -17,6 +17,7 @@
                     <li class="menu_li"><a href="./animes_vostfr.php" class="menu_liens">Animes VOSTFR</a></li>
                     <li class="menu_li"><a href="./animes_vf.php" class="menu_liens">Animes VF</a></li>
                     <li class="menu_li"><a href="./dessins_animes.php" class="menu_liens">Dessins Animés</a></li>
+                    <li class="menu_li"><a href="./films.php" class="menu_liens">Films</a></li>
                     <li class="menu_li"><a href="./contact.php" class="menu_liens">Contact</a></li>
                     <li class="menu_li"><a href="./a_propos.php" class="menu_liens">À Propos</a></li>
                 </ul>
@@ -43,7 +44,10 @@
             <a class="nav-link" href="animes_vf.php">Animes VF</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link espace10" href="dessins_animes.php">Dessins Animés</a>
+            <a class="nav-link" href="dessins_animes.php">Dessins Animés</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link espace10" href="films.php">Films</a>
             </li>
             <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
