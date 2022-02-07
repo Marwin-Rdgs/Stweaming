@@ -1,6 +1,5 @@
 <?php 
-$bdd = new PDO("mysql:host=localhost; dbname=stweaming; charset=utf8", "root", '');
-// $bdd = new PDO("mysql:host=2s24l.myd.infomaniak.com; dbname=2s24l_stweaming; charset=utf8", "2s24l_stweaming", 'Root123456');
+$bdd = new PDO(bien tenté);
 // Nouveautés
 $requeteSQL = "SELECT * FROM index_main";
 $requete = $bdd ->prepare($requeteSQL);
